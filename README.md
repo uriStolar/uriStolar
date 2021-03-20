@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🌎, I'm Uri Stolar</h1>
-<h3 align="center">A software engineer from Mexico City (currently working as react/react native dev)</h3>
+<h3 align="center">A software engineer from Mexico City, currently working as a frontend dev (focused on React Native apps)</h3>
 
-- 👨🏻‍💻 I’m currently working on [MagnaCerta](https://www.magnacerta.com/) frontend team
+- 👨🏻‍💻 I’m currently working on [MagnaCerta](https://www.magnacerta.com/)
 
 - 📝 I sometimes write articles on [notas.uristolar.com](notas.uristolar.com)
 
