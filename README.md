@@ -7,7 +7,7 @@
 
 - 📫 You can reach me @ **uri.stolar@gmail.com**
 
-- 📄 Here's [my resume](http://bit.ly/ustolar-resume)
+- 📄 Here's [my resume](https://bit.ly/ustolar-resume-22)
 
 - 🥁 Fun fact: **A group of 8 hobbits is called a hobbyte**
 
