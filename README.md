@@ -1,11 +1,9 @@
 <h1 align="center">Hello 🌎, I'm Uri Stolar</h1>
 <h3 align="center">A software engineer from Mexico City, currently working as a frontend dev (focusing on React Native)</h3>
 
-- 👨🏻‍💻 I’m currently working on [MagnaCerta](https://www.magnacerta.com/)
+- 📫 You can reach me at **uri.stolar@gmail.com**
 
-- 📝 I sometimes write articles on [notas.uristolar.com](notas.uristolar.com)
-
-- 📫 You can reach me @ **uri.stolar@gmail.com**
+- 📝 My blog is [notas.uristolar.com](https://www.notas.uristolar.com) where you can find mainly software development related posts but also mountaineering information and ideas I consider are worth sharing / conserving.
 
 - 📄 Here's [my resume](https://bit.ly/ustolar-resume-22) / Aquí está [mi CV](https://bit.ly/ustolar-cv-22)
 
