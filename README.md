@@ -1,5 +1,5 @@
-<h1 align="center">Hello 🌎, I'm Uri Stolar</h1>
-<h3 align="center">A software engineer from Mexico City, currently working as a frontend dev (focusing on React Native)</h3>
+<h1 align="center"><pre>Hello, world</pre> I am Uri Stolar</h1>
+<h3 align="center">A software engineer from 🇲🇽 currently focusing on React Native development with TypeScript</h3>
 
 - 📫 You can reach me at **uri.stolar@gmail.com**
 
