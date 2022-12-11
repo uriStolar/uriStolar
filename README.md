@@ -7,7 +7,7 @@
 
 - 📄 Here's [my resume](https://bit.ly/ustolar-resume-22) / Aquí está [mi CV](https://bit.ly/ustolar-cv-22)
 
-- 🤓 Fun fact: **A group of 8 hobbits is called a "hobbyte"**
+- 🤓 **Fun fact:** A group of 8 hobbits is called a _"hobbyte"_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
