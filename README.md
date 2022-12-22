@@ -3,7 +3,7 @@
 
 📫 You can reach me at **uri.stolar@gmail.com**
 
-📝 My blog is [notas.uristolar.com](https://notas.uristolar.com) where you can find mainly software development related posts but also mountaineering information and ideas I consider are worth sharing / conserving.
+📝 My blog is [notas.uristolar.com](https://notas.uristolar.com) where you can find mainly software development related posts but also mountaineering information and ideas I consider are worth sharing / saving.
 
 📄 Here's [my resume](https://bit.ly/ustolar-resume-22) / Aquí está [mi CV](https://bit.ly/ustolar-cv-22)
 
