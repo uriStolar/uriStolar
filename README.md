@@ -5,7 +5,7 @@
 
 📝 My blog is [notas.uristolar.dev](https://notas.uristolar.dev) where you can find mainly software development related posts but also mountaineering information and ideas I consider are worth sharing / saving.
 
-📄 Here's [my resume](https://bit.ly/ustolar-resume-22) / Aquí está [mi CV](https://bit.ly/ustolar-cv-22)
+📄 Here's [my resume](https://bit.ly/us-resume-2024) / Aquí está [mi CV](https://bit.ly/us-cv-2024)
 
 🤓 **Fun fact:** A group of 8 hobbits is called a _"hobbyte"_
 
