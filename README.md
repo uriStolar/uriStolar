@@ -1,13 +1,10 @@
-<h1 align="center"><pre>Hello, world</pre></h1>
-<h3>I'm Uri, a software engineer from 🇲🇽 currently focusing on React Native development with TypeScript</h3>
+<h1>Hi! 👋 My name is Uri and I am a software engineer</h1>
 
-📫 You can reach me at **uri.stolar@gmail.com**
+• 📫 You can reach me at **uri.stolar@gmail.com**
 
-📝 My blog is [notas.uristolar.dev](https://notas.uristolar.dev) where you can find mainly software development related posts but also mountaineering information and ideas I consider are worth sharing / saving.
+• 📝 My blog is [notas.uristolar.dev](https://notas.uristolar.dev) where you can find mainly software development related posts but also mountaineering information and ideas I consider are worth sharing / saving.
 
-📄 Here's [my resume](https://bit.ly/us-resume-2024) / Aquí está [mi CV](https://bit.ly/us-cv-2024)
-
-🤓 **Fun fact:** A group of 8 hobbits is called a _"hobbyte"_
+• 📄 Here's [my resume](https://bit.ly/us-resume-2024)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
