@@ -1,4 +1,4 @@
-<h1>Hi! 👋 My name is Uri and I am a software engineer</h1>
+<h1>Hi! 👋  I am Uri Stolar and I am a software engineer</h1>
 
 • 📫 You can reach me at **uri.stolar@gmail.com**
 
